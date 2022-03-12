@@ -1,6 +1,6 @@
-This is a smart contract that allows one to set a price for an item and upgrade.
+This is a smart contract that allows one to set a price for an item and uppdate it.
 
-The focus of this project is on Access Control 
+The focus of this project is on Access Control .
 Access sol talks about using a constructor and a modifier to restrict access .This way, only the msg.sender can update a price
 
 Access2 shows us the community vetted way of doing this i.e the standard way of restricting access. This involves importing openzeppelin ownable contract.
